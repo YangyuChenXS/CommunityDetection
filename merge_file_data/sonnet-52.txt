@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET LII
+
+                   So am I as the rich, whose blessed key
+               Can bring him to his sweet up-locked treasure,
+                  The which he will not every hour survey,
+               For blunting the fine point of seldom pleasure.
+                Therefore are feasts so solemn and so rare, 5
+                 Since, seldom coming, in the long year set,
+                Like stones of worth they thinly placed are,
+                     Or captain jewels in the carcanet.
+                 So is the time that keeps you as my chest,
+               Or as the wardrobe which the robe doth hide, 10
+                 To make some special instant special blest,
+                   By new unfolding his imprison'd pride.
+                 Blessed are you, whose worthiness gives scope,
+                Being had, to triumph, being lack'd, to hope. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

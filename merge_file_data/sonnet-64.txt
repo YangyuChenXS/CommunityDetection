@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET LXIV
+
+                When I have seen by Time's fell hand defaced
+                 The rich proud cost of outworn buried age;
+                 When sometime lofty towers I see down-razed
+                   And brass eternal slave to mortal rage;
+                  When I have seen the hungry ocean gain 5
+                   Advantage on the kingdom of the shore,
+                  And the firm soil win of the watery main,
+               Increasing store with loss and loss with store;
+                 When I have seen such interchange of state,
+                   Or state itself confounded to decay; 10
+                    Ruin hath taught me thus to ruminate,
+                 That Time will come and take my love away.
+                 This thought is as a death, which cannot choose
+                But weep to have that which it fears to lose. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET XXXI
+
+                   Thy bosom is endeared with all hearts,
+                   Which I by lacking have supposed dead,
+             And there reigns love and all love's loving parts,
+                And all those friends which I thought buried.
+                    How many a holy and obsequious tear 5
+                Hath dear religious love stol'n from mine eye
+                  As interest of the dead, which now appear
+                 But things removed that hidden in thee lie!
+               Thou art the grave where buried love doth live,
+                Hung with the trophies of my lovers gone, 10
+                 Who all their parts of me to thee did give;
+                    That due of many now is thine alone:
+                      Their images I loved I view in thee,
+                 And thou, all they, hast all the all of me. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

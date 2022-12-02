@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET CXV
+
+                 Those lines that I before have writ do lie,
+              Even those that said I could not love you dearer:
+                   Yet then my judgment knew no reason why
+             My most full flame should afterwards burn clearer.
+               But reckoning time, whose million'd accidents 5
+              Creep in 'twixt vows and change decrees of kings,
+               Tan sacred beauty, blunt the sharp'st intents,
+            Divert strong minds to the course of altering things;
+                    Alas, why, fearing of time's tyranny,
+               Might I not then say 'Now I love you best,' 10
+                    When I was certain o'er incertainty,
+                 Crowning the present, doubting of the rest?
+                    Love is a babe; then might I not say so,
+              To give full growth to that which still doth grow? 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                  SONNET CL
+
+              O, from what power hast thou this powerful might
+                    With insufficiency my heart to sway?
+                  To make me give the lie to my true sight,
+              And swear that brightness doth not grace the day?
+               Whence hast thou this becoming of things ill, 5
+                    That in the very refuse of thy deeds
+               There is such strength and warrantize of skill
+                That, in my mind, thy worst all best exceeds?
+                Who taught thee how to make me love thee more
+               The more I hear and see just cause of hate? 10
+                   O, though I love what others do abhor,
+                With others thou shouldst not abhor my state:
+                     If thy unworthiness raised love in me,
+                     More worthy I to be beloved of thee. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

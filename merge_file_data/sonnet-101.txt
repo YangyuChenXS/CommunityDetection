@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                  SONNET CI
+
+                   O truant Muse, what shall be thy amends
+                  For thy neglect of truth in beauty dyed?
+                  Both truth and beauty on my love depends;
+                  So dost thou too, and therein dignified.
+                Make answer, Muse: wilt thou not haply say 5
+               'Truth needs no colour, with his colour fix'd;
+                  Beauty no pencil, beauty's truth to lay;
+                   But best is best, if never intermix'd?'
+               Because he needs no praise, wilt thou be dumb?
+                Excuse not silence so; for't lies in thee 10
+                   To make him much outlive a gilded tomb,
+                    And to be praised of ages yet to be.
+                   Then do thy office, Muse; I teach thee how
+                 To make him seem long hence as he shows now. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

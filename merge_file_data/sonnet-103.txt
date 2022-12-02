@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET CIII
+
+                  Alack, what poverty my Muse brings forth,
+                 That having such a scope to show her pride,
+                   The argument all bare is of more worth
+                  Than when it hath my added praise beside!
+                 O, blame me not, if I no more can write! 5
+                Look in your glass, and there appears a face
+                  That over-goes my blunt invention quite,
+                   Dulling my lines and doing me disgrace.
+                 Were it not sinful then, striving to mend,
+                 To mar the subject that before was well? 10
+                     For to no other pass my verses tend
+                 Than of your graces and your gifts to tell;
+                  And more, much more, than in my verse can sit
+                Your own glass shows you when you look in it. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

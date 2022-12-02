@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET LXXIV
+
+                   But be contented: when that fell arrest
+                    Without all bail shall carry me away,
+                  My life hath in this line some interest,
+               Which for memorial still with thee shall stay.
+                When thou reviewest this, thou dost review 5
+                    The very part was consecrate to thee:
+               The earth can have but earth, which is his due;
+                 My spirit is thine, the better part of me:
+                So then thou hast but lost the dregs of life,
+                  The prey of worms, my body being dead, 10
+                  The coward conquest of a wretch's knife,
+                     Too base of thee to be remembered.
+                  The worth of that is that which it contains,
+                And that is this, and this with thee remains. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

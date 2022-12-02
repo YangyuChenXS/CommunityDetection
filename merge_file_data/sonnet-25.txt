@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET XXV
+
+                Let those who are in favour with their stars
+                  Of public honour and proud titles boast,
+                Whilst I, whom fortune of such triumph bars,
+                   Unlook'd for joy in that I honour most.
+            Great princes' favourites their fair leaves spread 5
+                    But as the marigold at the sun's eye,
+                 And in themselves their pride lies buried,
+                   For at a frown they in their glory die.
+                   The painful warrior famoused for fight,
+                 After a thousand victories once foil'd, 10
+                   Is from the book of honour razed quite,
+                And all the rest forgot for which he toil'd:
+                     Then happy I, that love and am beloved
+                    Where I may not remove nor be removed. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET CVIII
+
+                 What's in the brain that ink may character
+               Which hath not figured to thee my true spirit?
+                 What's new to speak, what new to register,
+                 That may express my love or thy dear merit?
+             Nothing, sweet boy; but yet, like prayers divine, 5
+                  I must, each day say o'er the very same,
+               Counting no old thing old, thou mine, I thine,
+                Even as when first I hallow'd thy fair name.
+                  So that eternal love in love's fresh case
+                  Weighs not the dust and injury of age, 10
+                   Nor gives to necessary wrinkles place,
+                    But makes antiquity for aye his page,
+                  Finding the first conceit of love there bred
+               Where time and outward form would show it dead. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET CXXVI
+
+                   O thou, my lovely boy, who in thy power
+              Dost hold Time's fickle glass, his sickle, hour;
+                Who hast by waning grown, and therein show'st
+               Thy lovers withering as thy sweet self grow'st;
+                 If Nature, sovereign mistress over wrack, 5
+             As thou goest onwards, still will pluck thee back,
+               She keeps thee to this purpose, that her skill
+                May time disgrace and wretched minutes kill.
+                Yet fear her, O thou minion of her pleasure!
+            She may detain, but not still keep, her treasure: 10
+                Her audit, though delay'd, answer'd must be,
+                     And her quietus is to render thee.
+                                     (    )
+                                    (    ) 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

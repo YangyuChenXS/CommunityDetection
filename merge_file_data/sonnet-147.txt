@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET CXLVII
+
+                    My love is as a fever, longing still
+                 For that which longer nurseth the disease,
+                Feeding on that which doth preserve the ill,
+                  The uncertain sickly appetite to please.
+                   My reason, the physician to my love, 5
+                 Angry that his prescriptions are not kept,
+                  Hath left me, and I desperate now approve
+                  Desire is death, which physic did except.
+                  Past cure I am, now reason is past care,
+                  And frantic-mad with evermore unrest; 10
+                My thoughts and my discourse as madmen's are,
+                 At random from the truth vainly express'd;
+               For I have sworn thee fair and thought thee bright,
+                 Who art as black as hell, as dark as night. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

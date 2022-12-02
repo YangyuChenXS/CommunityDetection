@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET LXXXIX
+
+               Say that thou didst forsake me for some fault,
+                    And I will comment upon that offence;
+               Speak of my lameness, and I straight will halt,
+                   Against thy reasons making no defence.
+              Thou canst not, love, disgrace me half so ill, 5
+                     To set a form upon desired change,
+                 As I'll myself disgrace: knowing thy will,
+               I will acquaintance strangle and look strange,
+                 Be absent from thy walks, and in my tongue
+               Thy sweet beloved name no more shall dwell, 10
+                Lest I, too much profane, should do it wrong
+                   And haply of our old acquaintance tell.
+                    For thee against myself I'll vow debate,
+                For I must ne'er love him whom thou dost hate. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET XCIV
+
+               They that have power to hurt and will do none,
+                 That do not do the thing they most do show,
+                Who, moving others, are themselves as stone,
+                   Unmoved, cold, and to temptation slow,
+                  They rightly do inherit heaven's graces 5
+                  And husband nature's riches from expense;
+                They are the lords and owners of their faces,
+                  Others but stewards of their excellence.
+                 The summer's flower is to the summer sweet,
+                  Though to itself it only live and die, 10
+                But if that flower with base infection meet,
+                   The basest weed outbraves his dignity:
+                For sweetest things turn sourest by their deeds;
+                Lilies that fester smell far worse than weeds. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

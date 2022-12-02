@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET LXVII
+
+                Ah! wherefore with infection should he live,
+                    And with his presence grace impiety,
+                  That sin by him advantage should achieve
+                      And lace itself with his society?
+                Why should false painting imitate his cheek 5
+                  And steal dead seeing of his living hue?
+                   Why should poor beauty indirectly seek
+                  Roses of shadow, since his rose is true?
+                 Why should he live, now Nature bankrupt is,
+             Beggar'd of blood to blush through lively veins? 10
+                   For she hath no exchequer now but his,
+                  And, proud of many, lives upon his gains.
+                 O, him she stores, to show what wealth she had
+                In days long since, before these last so bad. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

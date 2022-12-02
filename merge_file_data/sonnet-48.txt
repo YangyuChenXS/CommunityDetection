@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                SONNET XLVIII
+
+                   How careful was I, when I took my way,
+                  Each trifle under truest bars to thrust,
+                     That to my use it might unused stay
+              From hands of falsehood, in sure wards of trust!
+                 But thou, to whom my jewels trifles are, 5
+               Most worthy of comfort, now my greatest grief,
+                  Thou, best of dearest and mine only care,
+                  Art left the prey of every vulgar thief.
+                   Thee have I not lock'd up in any chest,
+             Save where thou art not, though I feel thou art, 10
+                   Within the gentle closure of my breast,
+              From whence at pleasure thou mayst come and part;
+                  And even thence thou wilt be stol'n, I fear,
+                For truth proves thievish for a prize so dear. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

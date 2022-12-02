@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET CXII
+
+                 Your love and pity doth the impression fill
+                 Which vulgar scandal stamp'd upon my brow;
+                  For what care I who calls me well or ill,
+                  So you o'er-green my bad, my good allow?
+                You are my all the world, and I must strive 5
+               To know my shames and praises from your tongue:
+                    None else to me, nor I to none alive,
+              That my steel'd sense or changes right or wrong.
+                    In so profound abysm I throw all care
+                 Of others' voices, that my adder's sense 10
+                   To critic and to flatterer stopped are.
+                   Mark how with my neglect I do dispense:
+                     You are so strongly in my purpose bred
+                That all the world besides methinks are dead. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

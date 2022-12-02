@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                  SONNET IV
+
+                  Unthrifty loveliness, why dost thou spend
+                      Upon thyself thy beauty's legacy?
+                Nature's bequest gives nothing but doth lend,
+                And being frank she lends to those are free.
+               Then, beauteous niggard, why dost thou abuse 5
+                  The bounteous largess given thee to give?
+                    Profitless usurer, why dost thou use
+                 So great a sum of sums, yet canst not live?
+                   For having traffic with thyself alone,
+               Thou of thyself thy sweet self dost deceive. 10
+                Then how, when nature calls thee to be gone,
+                   What acceptable audit canst thou leave?
+                   Thy unused beauty must be tomb'd with thee,
+                    Which, used, lives th' executor to be. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/

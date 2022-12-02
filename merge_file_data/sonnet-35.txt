@@ -1,0 +1,29 @@
+   [1]Open Source Shakespeare
+
+View sonnets
+
+                                 SONNET XXXV
+
+              No more be grieved at that which thou hast done:
+                Roses have thorns, and silver fountains mud;
+                Clouds and eclipses stain both moon and sun,
+                 And loathsome canker lives in sweetest bud.
+                 All men make faults, and even I in this, 5
+                   Authorizing thy trespass with compare,
+                    Myself corrupting, salving thy amiss,
+                  Excusing thy sins more than thy sins are;
+                 For to thy sensual fault I bring in sense--
+                   Thy adverse party is thy advocate-- 10
+                 And 'gainst myself a lawful plea commence:
+                    Such civil war is in my love and hate
+                        That I an accessary needs must be
+                To that sweet thief which sourly robs from me. 14
+
+                                      O
+
+   Program code and database © 2003-2012 George Mason University.
+   All texts are public domain.
+
+References
+
+   1. file://localhost/
